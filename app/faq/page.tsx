@@ -1,6 +1,8 @@
 ﻿"use client";
 
 import Image from "next/image";
+import fluid1Pic from "@/public/fluid1.png";
+import fluid2Pic from "@/public/fluid2.png";
 import { motion } from "framer-motion";
 
 import Header from "@/components/Header";
@@ -15,7 +17,7 @@ export default function FAQPage() {
       <main className="relative min-h-screen bg-black text-white overflow-hidden">
         <div className="absolute inset-0 -z-20 opacity-40">
           <Image
-            src="/fluid1.png"
+            src={fluid1Pic}
             alt="Background Shape"
             fill
             className="object-cover"
@@ -25,7 +27,7 @@ export default function FAQPage() {
 
         <div className="absolute inset-0 -z-30 opacity-30">
           <Image
-            src="/fluid2.png"
+            src={fluid2Pic}
             alt="Background Shape 2"
             fill
             className="object-cover"
