@@ -52,12 +52,12 @@ export default function Loader({ onFinished, durationMs = 1000 }: LoaderProps) {
             transition={{ duration: 0.5, ease: "easeOut" }}
             className="mb-6"
           >
-            <Image
+            <img
               src="/icon.png"
               width={140}
               height={140}
               alt="Icon"
-              priority
+              style={{ width: '140px', height: '140px' }}
             />
           </motion.div>
 

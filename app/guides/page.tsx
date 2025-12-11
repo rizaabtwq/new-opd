@@ -17,20 +17,17 @@ export default function GuidesPage() {
       <main className="relative min-h-screen bg-black text-white overflow-hidden">
         {/* Фоновые элементы */}
         <div className="absolute inset-0 -z-20 opacity-20">
-          <Image
+          <img
             src="/fluid1.png"
             alt="Background Shape"
-            fill
-            className="object-cover"
-            priority
+            className="w-full h-full object-cover"
           />
         </div>
         <div className="absolute inset-0 -z-30 opacity-10">
-          <Image
+          <img
             src="/fluid2.png"
             alt="Background Shape 2"
-            fill
-            className="object-cover"
+            className="w-full h-full object-cover"
           />
         </div>
 
