@@ -53,7 +53,7 @@ export default function Loader({ onFinished, durationMs = 1000 }: LoaderProps) {
             className="mb-6"
           >
             <Image
-              src="/new-opd/icon.png"
+              src="/icon.png"
               width={140}
               height={140}
               alt="Icon"

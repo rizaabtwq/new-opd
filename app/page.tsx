@@ -117,7 +117,7 @@ export default function Home() {
                 <div className="w-full h-[240px] sm:h-[300px] lg:h-[400px] bg-neutral-900 rounded-2xl flex items-center justify-center border border-neutral-800">
                   <Image
                     // ИСПОЛЬЗУЙТЕ ПРЕФИКС /new-opd/
-                    src="/new-opd/3189f5f85f2419bec7940d379e0e21e0.png" 
+                    src="/3189f5f85f2419bec7940d379e0e21e0.png" 
                     alt="Feature Image"
                     // Обязательно укажите width и height
                     width={100} 
