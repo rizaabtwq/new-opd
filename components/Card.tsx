@@ -23,7 +23,7 @@ export default function FeatureCard({
         rounded-2xl
         p-6
         w-full
-        max-w-md
+        max-w-full
       "
     >
       <div className="flex items-center gap-3 mb-3 text-white">
