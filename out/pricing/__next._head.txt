@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[18379,["/new-opd/_next/static/chunks/e504f819fb0c8d5a.js","/new-opd/_next/static/chunks/8dc8e2b9c95cde3b.js"],"ViewportBoundary"]
-4:I[18379,["/new-opd/_next/static/chunks/e504f819fb0c8d5a.js","/new-opd/_next/static/chunks/8dc8e2b9c95cde3b.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[10222,["/new-opd/_next/static/chunks/e504f819fb0c8d5a.js","/new-opd/_next/static/chunks/8dc8e2b9c95cde3b.js"],"IconMark"]
-0:{"buildId":"KeG49Mlt5v-8max-YCW6h","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"Async DLC"}],["$","meta","1",{"name":"description","content":"Async Client by finikov"}],["$","link","2",{"rel":"icon","href":"/new-opd/favicon.ico?favicon.d678f28b.ico","sizes":"32x32","type":"image/x-icon"}],["$","$L7","3",{}]]
