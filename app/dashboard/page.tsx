@@ -18,7 +18,7 @@ export default function Dashboard() {
           <main className="min-h-screen text-white bg-black px-48 pt-40">
             <h1 className="text-5xl font-bold mb-6">Dashboard</h1>
             <p className="text-xl text-white/70">
-              Welcome, <span className="text-purple-400">finikov</span>
+              Welcome, <span className="text-purple-400">rizaabtwq</span>
             </p>
           </main>
 

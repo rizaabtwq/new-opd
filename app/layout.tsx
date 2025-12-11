@@ -8,8 +8,8 @@ const unbounded = Unbounded({
 });
 
 export const metadata: Metadata = {
-  title: "Async DLC",
-  description: "Async Client by finikov",
+  title: "Кибербезопасность | Проект по ОПД",
+  description: "Проект",
 };
 
 export default function RootLayout({
