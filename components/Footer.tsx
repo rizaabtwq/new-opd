@@ -18,12 +18,9 @@ export default function Footer() {
       "
     >
       <div className="absolute left-0 top-0 h-full opacity-30 pointer-events-none">
-        <Image
-          // ИСПРАВЛЕНИЕ: Добавлен префикс /new-opd/ из basePath
-          src="/fluid3.png"
+        <img
+          src="/new-opd/fluid3.png"
           alt="Fluid"
-          width={400}
-          height={800}
           className="h-full w-auto object-cover"
         />
       </div>
