@@ -29,7 +29,7 @@ export default function Header() {
           className="flex items-center gap-3 group transition hover:opacity-100 z-20"
         >
           <Image
-            src="/icon.png"
+            src="/new-opd/icon.png"
             alt="Icon"
             width={42}
             height={42}
