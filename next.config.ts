@@ -10,9 +10,9 @@ const nextConfig: NextConfig = {
   },
 
   // 3. ВАЖНО: Если ты деплоишь в репозиторий вида "username.github.io/repo-name",
-  // укажи имя репозитория здесь. Если репозиторий называется "my-site", пиши "/my-site".
+  // укажи имя репозиторий здесь. Если репозиторий называется "my-site", пиши "/my-site".
   // Если это личный сайт (username.github.io), эту строку можно удалить.
-  // basePath: "/new-opd", // Убрано для корректной работы с GitHub Pages 
+  basePath: "/new-opd", 
 };
 
 export default nextConfig;

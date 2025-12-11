@@ -116,7 +116,7 @@ export default function Home() {
                 {/* Место для картинки слева */}
                 <div className="w-full h-[240px] sm:h-[300px] lg:h-[400px] bg-neutral-900 rounded-2xl flex items-center justify-center border border-neutral-800">
                   <img
-                    src="/3189f5f85f2419bec7940d379e0e21e0.png"
+                    src="/new-opd/3189f5f85f2419bec7940d379e0e21e0.png"
                     alt="Feature Image"
                     className="w-full h-full object-cover rounded-2xl"
                   />

@@ -18,14 +18,14 @@ export default function GuidesPage() {
         {/* Фоновые элементы */}
         <div className="absolute inset-0 -z-20 opacity-20">
           <img
-            src="/fluid1.png"
+            src="/new-opd/fluid1.png"
             alt="Background Shape"
             className="w-full h-full object-cover"
           />
         </div>
         <div className="absolute inset-0 -z-30 opacity-10">
           <img
-            src="/fluid2.png"
+            src="/new-opd/fluid2.png"
             alt="Background Shape 2"
             className="w-full h-full object-cover"
           />

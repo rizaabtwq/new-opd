@@ -15,7 +15,7 @@ export default function FAQPage() {
       <main className="relative min-h-screen bg-black text-white overflow-hidden">
         <div className="absolute inset-0 -z-20 opacity-40">
           <img
-            src="/fluid1.png"
+            src="/new-opd/fluid1.png"
             alt="Background Shape"
             className="w-full h-full object-cover"
           />
@@ -23,7 +23,7 @@ export default function FAQPage() {
 
         <div className="absolute inset-0 -z-30 opacity-30">
           <img
-            src="/fluid2.png"
+            src="/new-opd/fluid2.png"
             alt="Background Shape 2"
             className="w-full h-full object-cover"
           />
